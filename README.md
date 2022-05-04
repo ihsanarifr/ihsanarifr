@@ -65,7 +65,9 @@
 <br/>
 <br/>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/santekno"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="santekno" /></a><a href="https://ko-fi.com/santekno"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="santekno" /></a></p>
+<p><a href="https://www.buymeacoffee.com/santekno"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="santekno" /></a><a href="https://ko-fi.com/santekno"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="santekno" /></a>
+<a href="https://trakteer.id/ihsan-arif-yejsc/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="50" style="border:0px;height:50px;" alt="Trakteer Saya"></a>
+</p>
 <br/>
 <br/>
 <br/>
